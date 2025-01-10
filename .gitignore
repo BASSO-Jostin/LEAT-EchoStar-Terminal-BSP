@@ -33,3 +33,28 @@ __pycache__/
 # VisualStudioCode
 .vscode/*
 *.code-workspace
+
+
+        .editorconfig
+        .gitattributes
+        .github/
+        CI/
+        CONTRIBUTING.md
+        License.md
+        README.md
+        README_CMAKE.md
+        README_stm32duino.md
+        SECURITY.md
+        boards.txt
+        cmake/
+        cores/
+        keywords.txt
+        package.json
+        platform.txt
+        programmers.txt
+        schematic/
+        system/
+        tools/
+        variants/
+
+
